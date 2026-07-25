@@ -1,6 +1,6 @@
 # movix
 aplikace pro android která pomocí webshare přehrává filmy a seriály
-<br><p style="color: red">brzy bude dostupné také pro android tv !!!<p>
+<br><p style="color: red;">brzy bude dostupné také pro android tv !!!<p>
 # funkce
 <li>Přehrávaní obsahu (filmy a seriály)</li>
 <li>Stahování obsahu do telfonu (film a seriály)</li>
