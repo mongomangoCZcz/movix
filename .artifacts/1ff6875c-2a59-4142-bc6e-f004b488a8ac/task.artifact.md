@@ -1,0 +1,10 @@
+- [x] Setup dependencies and project structure
+- [x] Implement `Md5Crypt` logic in Kotlin
+- [x] Implement Data Layer (TMDb, Webshare, VPS API clients)
+- [x] Implement Domain Layer (Models, FilenameAnalyzer)
+- [x] Implement Auth flow (Login, Token management)
+- [x] Implement Search and Discovery logic
+- [x] Implement UI (Compose Screens & Navigation)
+- [x] Implement Media Player (Media3)
+- [x] Implement Background Downloads (WorkManager)
+- [x] Final verification and testing

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "703885705748",
+    "firebase_url": "https://tonal-limiter-311311-default-rtdb.firebaseio.com",
+    "project_id": "tonal-limiter-311311",
+    "storage_bucket": "tonal-limiter-311311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703885705748:android:d246768e8cc560a7551d01",
+        "android_client_info": {
+          "package_name": "com.example.movix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5b5CQSWGQFB9rKF4-G3UbkwP7cfnTdKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703885705748:android:aaf3880bb4779880551d01",
+        "android_client_info": {
+          "package_name": "com.my.newproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5b5CQSWGQFB9rKF4-G3UbkwP7cfnTdKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
