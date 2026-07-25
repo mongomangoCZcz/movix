@@ -1,5 +1,5 @@
 # movix
-![GitHub Release](https://img.shields.io/github/v/release/mongomangoCZcz/movix)
+![GitHub Release](https://img.shields.io/github/v/release/mongomangoCZcz/movix)<br>
 aplikace pro android která pomocí webshare přehrává filmy a seriály (je potřeba mít účet VIP webshare)
 <br><p style="color: red;">brzy bude dostupné také pro android tv a IOS !!!<p>
 # funkce
