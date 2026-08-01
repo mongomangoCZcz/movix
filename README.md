@@ -9,4 +9,4 @@ aplikace pro android a android tv která pomocí webshare přehrává filmy a se
 <li>Pokračovat ve sledování (umožnuje pokračovat přesně tam kde jste skončili) zatím pouze pro android!!!</li>
 
 # použití
-1. Stáhněte apk soubor z realeses <a>https://github.com/mongomangoCZcz/movix/releases/tag/1.0.0</a>
+1. Stáhněte apk soubor z realeses <a>https://github.com/mongomangoCZcz/movix/releases/tag/1.0.1</a>
